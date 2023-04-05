@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,<br>I'm Harun IRIZ<br>Software Engineer
+Hi there,<br>I'm Harun IRIZ<br>Software Engineer<br><br>I graduated from Karabuk University Computer Engineering Department. In my university graduation thesis, I created a joint appointment system for all health institutions. With this project, I developed myself in PHP, Laravel framework, Javascript, mysql, html, css, bootstrap technologies. I've developed websites for corporate companies, and I've also developed several websites as a freelancer. Finally, I am currently working as a backend developer on a project related to shopping prices at the University Teknokent Project.
 
 
 ## 🌐 Socials:
